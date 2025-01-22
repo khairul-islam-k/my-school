@@ -126,6 +126,9 @@ letter-spacing: 0%;
     display:flex;
     align-items: center;
 }
+.banner-main img {
+    width: 100%;
+}
 .container{
     max-width:640px;
 }
@@ -345,5 +348,8 @@ letter-spacing: 0%;
     }
     .arow {
         display:none;
+    }
+    .main {
+        background: none;
     }
 }
